@@ -1,0 +1,814 @@
+#20e3, #
+020e3, amuse
+120e3, ride
+1f004, mic
+1f17f, video
+1f194, record
+1f302, music
+1f303, art
+1f304, hat
+1f305, check
+1f306, film
+1f307, shot
+1f308, gamble
+1f30a, game
+1f319, note
+1f31f, by
+1f334, instrument
+1f335, guitar
+1f337, trumpet
+1f338, tennis
+1f339, ski
+1f33a, nokia
+1f33b, microsoft
+1f33e, change
+1f34a, orange
+1f34e, apple
+1f353, temple
+1f354, chinese
+1f359, idea
+1f35a, !
+1f35b, bomb
+1f35c, sleeping
+1f35d, fart
+1f35e, poo
+1f35f, muscle
+1f363, rich
+1f366, creative
+1f367, stock
+1f370, seat
+1f371, tv
+1f372, suitcase
+1f373, disk
+1f374, CD
+1f375, drive
+1f376, book
+1f378, write
+1f37a, fax
+1f37b, satellite
+1f380, announce
+1f381, speaker
+1f382, inbox
+1f383, mail
+1f384, post
+1f385, cell
+1f386, incoming
+1f387, network
+1f388, ruby
+1f389, world
+1f392, radio
+1f393, video
+1f3a1, mountain
+1f3a2, New York
+1f3a4, ship
+1f3a5, submarine
+1f3a6, traffic
+1f3a7, construction
+1f3a8, cigarette
+1f3a9, no smoking
+1f3ab, bicycle
+1f3ac, walk
+1f3af, male
+1f3b0, female
+1f3b1, unisex
+1f3b5, baby
+1f3b6, toilet
+1f3b7, bath
+1f3b8, parking
+1f3ba, wave
+1f3be, star
+1f3bf, flower
+1f3c0, sunflower
+1f3c1, lily
+1f3c3, deliver
+1f3c4, advanc
+1f3c6, rice
+1f3c8, meal
+1f3ca, ramen
+1f3e0, home
+1f3e2, bread
+1f3e3, librar
+1f3e5, beer
+1f3e6, drinking
+1f3e7, snake
+1f3e8, horse
+1f3e9, shell
+1f3ea, fish
+1f3eb, school
+1f3ec, dolphin
+1f3ed, rat
+1f3ef, cow
+1f3f0, tiger
+1f40d, bug
+1f40e, test
+1f411, fist
+1f412, waving
+1f414, perfect
+1f417, great
+1f418, down
+1f419, availabl
+1f41a, bag
+1f41f, shoe
+1f420, download
+1f424, your
+1f426, girlfriends
+1f427, ghost
+1f428, angel
+1f42b, alien
+1f42c, game
+1f42d, evil
+1f42e, pill
+1f42f, lip
+1f430, ring
+1f431, diamond
+1f433, some
+1f434, announce
+1f435, inspect
+1f436, illegal
+1f437, gun
+1f438, happy
+1f43a, embrace
+1f43b, love
+1f440, smirk
+1f442, loving
+1f443, cute
+1f444, sad
+1f446, boring
+1f447, cry
+1f448, cheer
+1f449, pray
+1f44a, bus
+1f44b, truck
+1f44c, ID
+1f44d, rain
+1f44e, night
+1f44f, down
+1f451, sunrise
+1f459, dusk
+1f45c, evening
+1f45f, gay
+1f460, moon
+1f462, tropical
+1f466, boy
+1f467, friend
+1f468, researcher
+1f469, designer
+1f46b, luck
+1f46e, police
+1f46f, leaves
+1f471, student
+1f472, tomato
+1f473, eggplant
+1f474, watermelon
+1f475, berry
+1f476, hamburger
+1f477, snack
+1f47b, sushi
+1f47c, ice cream
+1f47d, dessert
+1f47e, cake
+1f47f, yum
+1f483, artist
+1f484, fry
+1f485, meal
+1f486, tea
+1f487, sake
+1f488, booze
+1f48a, pack
+1f48b, present
+1f48d, sweet
+1f48e, halloween
+1f48f, christmas
+1f491, santa
+1f494, holidays
+1f497, celebrate
+1f498, up
+1f4a1, fest
+1f4a2, school
+1f4a3, master
+1f4a4, lam
+1f4a6, monkey
+1f4a8, chicken
+1f4a9, boar
+1f4aa, more
+1f4b0, rich
+1f4b1, currency
+1f4b9, stock
+1f4ba, seat
+1f4bb, program
+1f4bc, suitcase
+1f4bd, software
+1f4bf, CD
+1f4c0, drive
+1f4d6, learn
+1f4dd, write
+1f4e0, fax
+1f4e1, satellite
+1f4e2, announce
+1f4e3, speaker
+1f4e9, digital
+1f4eb, mail
+1f4ee, post
+1f4f1, mobil
+1f4f2, incoming
+1f4f6, network
+1f4f7, camera
+1f4fa, television
+1f4fb, radio
+1f4fc, video
+1f50a, mountain
+1f50d, develop
+1f511
+1f512
+1f513
+1f514
+1f51e
+1f525, hot
+1f528, debate
+1f52b
+1f5fb
+1f5fd
+1f601
+1f602
+1f603
+1f604
+1f609
+1f60a
+1f60c
+1f60d
+1f60f
+1f612
+1f613
+1f614
+1f616
+1f618
+1f61a, commit
+1f61c, start
+1f61d, update
+1f61e
+1f620
+1f621
+1f622
+1f623
+1f625
+1f628
+1f62a
+1f62d
+1f630
+1f631
+1f632
+1f633
+1f637
+1f645
+1f646
+1f647
+1f64c
+1f64f
+1f680, prototyp
+1f683
+1f684, producti
+1f685
+1f687
+1f689
+1f68c
+1f691
+1f692
+1f693
+1f695
+1f697
+1f699
+1f69a
+1f6a2, ship
+1f6a4, submarine
+1f6a5, traffic
+1f6a7, construction
+1f6ac, cigarette
+1f6ad, smoking
+1f6b2, bicycle
+1f6b6, walk
+1f6b9, male
+1f6ba, female
+1f6bb, unisex
+1f6bc, baby
+1f6bd, toilet
+1f6c0, bath
+20e3, parking
+220e3, 2
+23e9, forward
+23ea, rewind
+25b6, play
+25c0, back
+2600, sun
+2601, cloud
+260e, call
+2614, rain
+2615, coffee
+261d, this
+263a, happy
+2668, bath
+267f, disabil
+26a0, warn
+26a1, light
+26bd, mac
+26be, window
+26c4, winter
+26ea, church
+26f3, golf
+26f5, sail
+26fa, camp
+26fd, gas
+2702, cut
+2708, fly
+270a, fighter
+270b, hand
+270c, success
+2728, shine
+274c, cross
+2754, ?
+2755, !
+2764, heart
+27a1, next
+2b05, left
+2b06, up
+2b07, down
+2b55, ok
+320e3, 3
+420e3, 4
+520e3, 5
+620e3, 6
+720e3, 7
+820e3, 8
+920e3, 9
+e001, man
+e002, wo
+e003
+e004
+e005, mom
+e006, shirt
+e007, commute
+e008, picture
+e009, phone
+e00a
+e00b
+e00c
+e00d
+e00e
+e00f
+e010
+e011, success
+e012
+e013
+e014
+e015
+e016
+e017
+e018
+e019
+e01a
+e01b
+e01c
+e01d
+e01e
+e01f
+e020
+e021
+e022
+e023
+e024, ago
+e025, hour
+e026, min
+e027, half
+e028
+e029
+e02b, time
+e02f, noon
+e030
+e031
+e032
+e033
+e034
+e035
+e036, house
+e037, religi
+e038, corp
+e039, trav
+e03a
+e03b
+e03c
+e03d
+e03e
+e03f, serial
+e040
+e041
+e042
+e043
+e044
+e045
+e046
+e047
+e048
+e049
+e04a
+e04b
+e04c
+e04d
+e04e
+e04f
+e050
+e051
+e052
+e053
+e054, operat
+e055
+e056
+e057
+e058, worry
+e059
+e05a
+e101, away
+e102
+e103
+e104, develop
+e105, hello
+e106, create
+e107, same
+e108, problem
+e109, hobby
+e10a
+e10b, fat
+e10c
+e10d
+e10e
+e10f, highligh
+e110, health
+e111
+e112
+e113
+e114
+e115
+e116
+e117
+e118
+e119
+e11a
+e11b, hack
+e11c, spy
+e11d
+e11e, sale
+e11f
+e120
+e121
+e122
+e123
+e124
+e125
+e126
+e127
+e128
+e129
+e12a, device
+e12b, version
+e12c
+e12d
+e12e
+e12f
+e130
+e131
+e132
+e133
+e134
+e135
+e136
+e137
+e138
+e139
+e13a
+e13b
+e13c
+e13d
+e13e
+e13f
+e140
+e141
+e142
+e143
+e144
+e145
+e146
+e147
+e148
+e149
+e14a
+e14b
+e14c
+e14d
+e14e
+e14f
+e150
+e151
+e152
+e153
+e154
+e155
+e156
+e157
+e158
+e159
+e15a
+e201, behind
+e202
+e203
+e204, had
+e205
+e206
+e207
+e208
+e209
+e20a
+e20b
+e20c
+e20d
+e20e
+e20f
+e210
+e211
+e212
+e213
+e214
+e215
+e216
+e217
+e218
+e219
+e21a
+e21b
+e21c
+e21d
+e21e
+e21f
+e220
+e221
+e222
+e223
+e224
+e225
+e226
+e227, language
+e228
+e229
+e22a
+e22b
+e22c
+e22d
+e22e, up
+e22f, down
+e230
+e231
+e232
+e233
+e234
+e235
+e236
+e237
+e238
+e239
+e23a
+e23b
+e23c
+e23d
+e23e
+e23f
+e240
+e241
+e242
+e243
+e244
+e245
+e246
+e247
+e248
+e249
+e24a
+e24b
+e24c
+e24d
+e24e
+e24f
+e250
+e251
+e252
+e253
+e301, write
+e302, career
+e303, flower
+e304, tulip
+e305, sunflower
+e306, bouq
+e307, tropi
+e308, cac
+e30a
+e30b
+e30c
+e30d
+e30e
+e30f, 
+e310
+e311
+e312
+e313
+e314
+e315
+e316
+e317
+e318
+e319
+e31a
+e31b
+e31c
+e31d
+e31e
+e31f
+e320, barbe
+e321, gimon
+e322, sexy
+e323, bag
+e324, film
+e325, school
+e326, musci
+e327, shine
+e328, in
+e329, focu
+e32a, for
+e32b, mode
+e32c, version
+e32d, about
+e32e, ago
+e32f, by
+e330
+e331
+e332
+e333
+e334
+e335
+e336
+e337
+e338
+e339
+e33a
+e33b
+e33c
+e33d
+e33e
+e33f, cook
+e340
+e341
+e342
+e343
+e344
+e345
+e346
+e347
+e348
+e349
+e34a
+e34b
+e34c
+e34d
+e401, worry
+e402, hm
+e403, weak
+e404, ha
+e405, wink
+e406, inequal
+e407, accuse
+e408, bor
+e409, cute
+e40a, review
+e40b, wait
+e40c, pollut
+e40d, really
+e40e, taint
+e40f, bad
+e410, hard
+e411, cry
+e412, comic
+e413, sad
+e414, joy
+e415, funny
+e416, angry
+e417, blush
+e418, kiss
+e419, see
+e41a, scen
+e41b, hear
+e41c, talk
+e41d, pray
+e41e, hand
+e41f, agree
+e420, good
+e421, down
+e423, no
+e424, yes
+e425, marri
+e426, wake
+e427, high
+e428, people
+e429, sister
+e42a, linux
+e401,
+e42b
+e42c
+e42d
+e42e
+e42f
+e430
+e431
+e432
+e433
+e434
+e435
+e436
+e437
+e438, couple
+e439
+e43a, educat
+e43b
+e43c
+e43d
+e43e
+e43f
+e440
+e441
+e442
+e443, stream
+e444
+e445
+e446
+e447
+e448
+e449
+e44a
+e44b
+e44c
+e501
+e502
+e503
+e504
+e505
+e506
+e507
+e508
+e509
+e50a
+e50b
+e50c
+e50d
+e50e
+e50f
+e510, britan
+e511
+e512, france
+e513, china
+e514
+e515, white
+e516, chinese
+e517, indian
+e518, old
+e519, grandm
+e51a
+e51b
+e51c
+e51d
+e51e
+e51f
+e520
+e521
+e522
+e523
+e524
+e525
+e526
+e527
+e528, do
+e529
+e52a
+e52b
+e52c
+e52d
+e52e
+e52f
+e530
+e531
+e532
+e533
+e534
+e535
+e536
+e537
+es, spain
+fr, france
+it, italy
+jp, japan
+kr, korea
+ru, russia
+us, america
