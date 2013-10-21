@@ -1,9 +1,7 @@
 140, deal
-141, with
 142, was
 143, by
 144, billion
-145, start
 146, big
 147, slow
 148, mess
@@ -36,7 +34,6 @@
 175, others
 176, over
 177, from
-178, long
 179, than
 18, week
 19, exchange
@@ -46,7 +43,6 @@
 24, download
 25, compan
 26, turn
-27, this
 28, aggressive
 29, example
 30, development
@@ -64,9 +60,7 @@
 42, hobb
 43, program
 44, available
-45, by
 46, over
-47, call
 501, explore
 502, business
 503, book
@@ -88,11 +82,6 @@
 519, los
 520, battle
 521, horror
-522, run
-523, data
 524, advertis
 525, exclusive
 526, network
-527, join
-tab_off
-tab_on

@@ -1,24 +1,101 @@
 // emotypes
-var bear=new bear('1f603','1f625','1f625','1f645','1f646','e312','1f633','1f632','e13c','bear');
+var bear=new Emoji('140','142','143','144','146','147','148','149','150','151','152','153','154','155','156','157','158','159','160','161','162','163','164','165','166','167','168','169','170','171','172','173','174','175','176','177','179','18','19','20','22','23','24','25','26','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','46','501','502','503','504','505','506','507','508','509','510','511','512','513','514','515','516','517','518','519','520','521','524','525','526','bear');
+function Emotions( deal, was, by, billion, big, slow, mess, process, question, market, music, bad, well, more, like, couple, chief, work, settle, number, exit, big, issues, remain, when, school, force, combat, ends, mission, produce, flavor, from, others, over, from, than, week, exchange, felt, act, over, download, compan, turn, aggressive, example, development, environment, online, community, software, teach, computer, visual, context, no, yes, research, hobb, program, available, over, explore, business, book, play, exercise, travel, weather, clean, improve, cook, swim, world, road, positive, negative, cheer, fight, argue, los, battle, horror, advertis, exclusive, network ){
+    this.deal=deal;
+    this.was=was;
+    this.by=by;
+    this.billion=billion;
+    this.big=big;
+    this.slow=slow;
+    this.mess=mess;
+    this.process=process;
+    this.question=question;
+    this.market=market;
+    this.music=music;
+    this.bad=bad;
+    this.well=well;
+    this.more=more;
+    this.like=like;
+    this.couple=couple;
+    this.chief=chief;
+    this.work=work;
+    this.settle=settle;
+    this.number=number;
+    this.exit=exit;
+    this.big=big;
+    this.issues=issues;
+    this.remain=remain;
+    this.when=when;
+    this.school=school;
+    this.force=force;
+    this.combat=combat;
+    this.ends=ends;
+    this.mission=mission;
+    this.produce=produce;
+    this.flavor=flavor;
+    this.from=from;
+    this.others=others;
+    this.over=over;
+    this.from=from;
+    this.than=than;
+    this.week=week;
+    this.exchange=exchange;
+    this.felt=felt;
+    this.act=act;
+    this.over=over;
+    this.download=download;
+    this.compan=compan;
+    this.turn=turn;
+    this.aggressive=aggressive;
+    this.example=example;
+    this.development=development;
+    this.environment=environment;
+    this.online=online;
+    this.community=community;
+    this.software=software;
+    this.teach=teach;
+    this.computer=computer;
+    this.visual=visual;
+    this.context=context;
+    this.no=no;
+    this.yes=yes;
+    this.research=research;
+    this.hobb=hobb;
+    this.program=program;
+    this.available=available;
+    this.over=over;
+    this.explore=explore;
+    this.business=business;
+    this.book=book;
+    this.play=play;
+    this.exercise=exercise;
+    this.travel=travel;
+    this.weather=weather;
+    this.clean=clean;
+    this.improve=improve;
+    this.cook=cook;
+    this.swim=swim;
+    this.world=world;
+    this.road=road;
+    this.positive=positive;
+    this.negative=negative;
+    this.cheer=cheer;
+    this.fight=fight;
+    this.argue=argue;
+    this.los=los;
+    this.battle=battle;
+    this.horror=horror;
+    this.advertis=advertis;
+    this.exclusive=exclusive;
+    this.network=network;
+ }
+function Emoji( deal, was, by, billion, big, slow, mess, process, question, market, music, bad, well, more, like, couple, chief, work, settle, number, exit, big, issues, remain, when, school, force, combat, ends, mission, produce, flavor, from, others, over, from, than, week, exchange, felt, act, over, download, compan, turn, aggressive, example, development, environment, online, community, software, teach, computer, visual, context, no, yes, research, hobb, program, available, over, explore, business, book, play, exercise, travel, weather, clean, improve, cook, swim, world, road, positive, negative, cheer, fight, argue, los, battle, horror, advertis, exclusive, network ,path){
+    this.emotions=new Emotions( deal, was, by, billion, big, slow, mess, process, question, market, music, bad, well, more, like, couple, chief, work, settle, number, exit, big, issues, remain, when, school, force, combat, ends, mission, produce, flavor, from, others, over, from, than, week, exchange, felt, act, over, download, compan, turn, aggressive, example, development, environment, online, community, software, teach, computer, visual, context, no, yes, research, hobb, program, available, over, explore, business, book, play, exercise, travel, weather, clean, improve, cook, swim, world, road, positive, negative, cheer, fight, argue, los, battle, horror, advertis, exclusive, network ); 
+    this.path=path; 
+};
+
 var emotypes=['bear'];
 
-// functions
-function Emotions(#, amuse, ride, mic, video, record, music, art, hat, check, film, shot, gamble, game, note, sing, instrument, guitar, trumpet, tennis, ski, basketball, race, run, surf, trophy, football, swim, house, building, school, hospital, bank, temple, chinese, idea, !, bomb, sleeping, fart, poo, muscle, rich, currency, stock, seat, tv, suitcase, disk, CD, drive, book, write, fax, satellite, announce, speaker, inbox, mail, post, cell, incoming, network, camera, television, radio, video, Fuji, New York, ship, submarine, traffic, construction, cigarette, no smoking, bicycle, walk, male, female, unisex, baby, toilet, bath, parking, wave, star, flower, sunflower, lily, orange, apple, rice, meal, ramen, pasta, bread, fries, beer, drinking, snake, horse, shell, fish, camel, dolphin, rat, cow, tiger, dog, bear, fist, waving, perfect, great, down, clap, bag, shoe, couple, police, girlfriends, ghost, angel, alien, game, evil, pill, lip, ring, diamond, kiss, announce, inspect, illegal, gun, happy, contempt, love, smirk, loving, cute, sad, boring, cry, high five, pray, bus, truck, ID, rain, night, down, sunrise, dusk, evening, rainbow, moon, tropical, cactus, tulip, petal, rose, luck, fall, leaves, wind, tomato, eggplant, watermelon, strawberry, hamburger, munch, sushi, ice cream, ice, cake, asian, soup, fry, meal, tea, sake, booze, ribbon, present, cake, halloween, christmas, santa, firework, celebrate, up, fest, school, master, lam, monkey, chicken, boar, elephant, seafood, ocean, chick, pigeon, penguin, australia, rabbit, cat, water, horse, monkey, dog, pig, frog, see, hear, smell, talk, up, down, left, right, imper, sexy, woman, boots, guy, girl, mexic, mom, son, chinese, indian, old, grandm, baby, worker, dance, makeup, polish, massage, cut, barber, love, break, cupid, grow, key, lock, unlock, bell, hot, judge, glee, funny, happy, contempt, wink, meh, regret, lose, frown, kiss, upset, fight, weep, inequal, tear, ){
-    this.the=the;
-    this.language=language;
-    this.and=and;
-    this.ok=ok;
-    this.congrats;
-    this.shock=shock;
-    this.work=work;
-    this.sleep=sleep;
-}
-
-//bear is the main class. these are objects
-function bear(the,cry,language,and,ok,congrats,shock,work,sleep,path){
-    this.emotions=new Emotions(the,cry,language,and,ok,congrats,shock,work,sleep);
-    this.path=path;
-}
 function findAndReplace(searchText, replacement, searchNode) {
     if (!searchText || typeof replacement === 'undefined') {
         // Throw error here if you want...

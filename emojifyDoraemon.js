@@ -1,24 +1,54 @@
 // emotypes
-var doraemon=new Emoji('2676_key','2660_key','2661_key','2689_key','2652_key','3655_key','2654_key','2657_key','2659_key','doraemon');
+
+var doraemon=new Emoji('4361','4362','4363','4364','4366','4367','4368','4369','4370','4371','4372','4374','4375','4376','4377','4378','4379','4380','4382','4383','4384','4385','4386','4387','4388','4389','4390','4391','4392','4393','4394','4395','4396','4397','4399','4400','doraemon');
+function Emotions( big, was, by, call, mobile, program, bad, move, out, via, produce, no, question, over, repair, world, act, over, turn, develop, environ, online, community, explore, context, research, example, compan, down, others, work, like, mess, market, settle, end ){
+    this.big=big;
+    this.was=was;
+    this.by=by;
+    this.call=call;
+    this.mobile=mobile;
+    this.program=program;
+    this.bad=bad;
+    this.move=move;
+    this.out=out;
+    this.via=via;
+    this.produce=produce;
+    this.no=no;
+    this.question=question;
+    this.over=over;
+    this.repair=repair;
+    this.world=world;
+    this.act=act;
+    this.over=over;
+    this.turn=turn;
+    this.develop=develop;
+    this.environ=environ;
+    this.online=online;
+    this.community=community;
+    this.explore=explore;
+    this.context=context;
+    this.research=research;
+    this.example=example;
+    this.compan=compan;
+    this.down=down;
+    this.others=others;
+    this.work=work;
+    this.like=like;
+    this.mess=mess;
+    this.market=market;
+    this.settle=settle;
+    this.end=end;
+ }
+function Emoji( big, was, by, call, mobile, program, bad, move, out, via, produce, no, question, over, repair, world, act, over, turn, develop, environ, online, community, explore, context, research, example, compan, down, others, work, like, mess, market, settle, end ,path){
+    this.emotions=new Emotions( big, was, by, call, mobile, program, bad, move, out, via, produce, no, question, over, repair, world, act, over, turn, develop, environ, online, community, explore, context, research, example, compan, down, others, work, like, mess, market, settle, end ); 
+    this.path=path; 
+};
+
+
+
 var emotypes=['doraemon'];
 
-// functions
-function Emotions(the,cry,language,and,ok,congrats,shock,work,sleep){
-    this.the=the;
-    this.language=language;
-    this.and=and;
-    this.ok=ok;
-    this.congrats;
-    this.shock=shock;
-    this.work=work;
-    this.sleep=sleep;
-}
 
-//Emoji is the main class. these are objects
-function Emoji(the,cry,language,and,ok,congrats,shock,work,sleep,path){
-    this.emotions=new Emotions(the,cry,language,and,ok,congrats,shock,work,sleep);
-    this.path=path;
-}
 function findAndReplace(searchText, replacement, searchNode) {
     if (!searchText || typeof replacement === 'undefined') {
         // Throw error here if you want...

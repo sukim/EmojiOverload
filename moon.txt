@@ -11,7 +11,6 @@
 20953, call
 20954, was
 20955, mobile
-20956, with
 20957, out
 20958, via
 20959, not
@@ -19,10 +18,8 @@
 20961, numbers
 20962, from
 20963, over
-20964, start
 20965, and
 20966, were
-20967, long
 20968, than
 20969, act
 20970, business
@@ -32,7 +29,6 @@
 20974, program
 20975, example
 20976, available
-20977, this
 20978, repair
 20979, week
 20980, down

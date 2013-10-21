@@ -1,24 +1,61 @@
 // emotypes
-var meow=new Emoji('2676_key','2660_key','2661_key','2689_key','2652_key','3655_key','2654_key','2657_key','2659_key','meow');
+var meow=new Emoji('2652','2653','2654','2655','2656','2657','2658','2659','2660','2661','2662','2663','2664','2665','2666','2667','2668','2669','2670','2671','2672','2673','2674','2675','2676','2677','2678','2679','2680','2681','2682','2683','2684','2685','2686','2687','2688','2689','2690','2691','tab_on','meow');
+function Emotions( deal, like, turn, billion, flavor, business, development, wait, over, settle, combat, felt, down, exit, repair, sales, among, chief, invade, force, thank, environment, explore, aggressive, turn , world, business, digital, sale, percent, compan, community, software, teach, available, wait, than, issue, when, end, by ){
+    this.deal=deal;
+    this.like=like;
+    this.turn=turn;
+    this.billion=billion;
+    this.flavor=flavor;
+    this.business=business;
+    this.development=development;
+    this.wait=wait;
+    this.over=over;
+    this.settle=settle;
+    this.combat=combat;
+    this.felt=felt;
+    this.down=down;
+    this.exit=exit;
+    this.repair=repair;
+    this.sales=sales;
+    this.among=among;
+    this.chief=chief;
+    this.invade=invade;
+    this.force=force;
+    this.thank=thank;
+    this.environment=environment;
+    this.explore=explore;
+    this.aggressive=aggressive;
+    this.turn=turn;
+    this.world=world;
+    this.business=business;
+    this.digital=digital;
+    this.sale=sale;
+    this.percent=percent;
+    this.compan=compan;
+    this.community=community;
+    this.software=software;
+    this.teach=teach;
+    this.available=available;
+    this.wait=wait;
+    this.than=than;
+    this.issue=issue;
+    this.when=when;
+    this.end=end;
+    this.by=by;
+ }
+function Emoji( deal, like, turn, billion, flavor, business, development, wait, over, settle, combat, felt, down, exit, repair, sales, among, chief, invade, force, thank, environment, explore, aggressive, turn , world, business, digital, sale, percent, compan, community, software, teach, available, wait, than, issue, when, end, by ,path){
+    this.emotions=new Emotions( deal, like, turn, billion, flavor, business, development, wait, over, settle, combat, felt, down, exit, repair, sales, among, chief, invade, force, thank, environment, explore, aggressive, turn , world, business, digital, sale, percent, compan, community, software, teach, available, wait, than, issue, when, end, by ); 
+    this.path=path; 
+};
+
+
+
+
+
 var emotypes=['meow'];
 
-// functions
-function Emotions(the,cry,language,and,ok,congrats,shock,work,sleep){
-    this.the=the;
-    this.language=language;
-    this.and=and;
-    this.ok=ok;
-    this.congrats;
-    this.shock=shock;
-    this.work=work;
-    this.sleep=sleep;
-}
 
-//Emoji is the main class. these are objects
-function Emoji(the,cry,language,and,ok,congrats,shock,work,sleep,path){
-    this.emotions=new Emotions(the,cry,language,and,ok,congrats,shock,work,sleep);
-    this.path=path;
-}
+
 function findAndReplace(searchText, replacement, searchNode) {
     if (!searchText || typeof replacement === 'undefined') {
         // Throw error here if you want...

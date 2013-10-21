@@ -16,9 +16,9 @@
         "popup.js",
         "manifest.json",
         "emoji/*",
-        "meow/*"
-        "bear/*"
-        "moon/*"
+        "meow/*",
+        "bear/*",
+        "moon/*",
         "doraemon/*"
 
     ]
